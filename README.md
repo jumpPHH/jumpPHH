@@ -14,23 +14,23 @@ Among them, Java is very interesting.
 from south korea if you want to contact me.
 please message!</p><br>
   
-<h3>Experience</h3><br>
+<h3>Experience</h3>
   
 <li>
   1.Japanese development company <br>
   - Style system <br>
   (Java Developer - front-end,back-end) <br>
   2017.01~2020.05
-</li>
+</li><br>
   
 <li>
   2.Korean development company <br>
   - Korean money brokerage <br>
   (network engineer - build a network,network maintenance,PC maintenance) <br>
   2020.06~2022.06
-</li>
+</li><br>
   
-  <h3>Skill</h3><br>
+  <h3>Skill</h3>
  
   <P> 
     <h4>TOOL:</h4> Java、JSP、Servlet、Spring、javaScript、ｊQuery、Eclipse、STS、Tomcat、Apache <br>
