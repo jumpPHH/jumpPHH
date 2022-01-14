@@ -17,16 +17,16 @@ please message!</p><br>
 <h3>Experience</h3><br>
   
 <li>
-  1.Japanese development company
-  - Style system
-  (Java Developer - front-end,back-end)
+  1.Japanese development company <br>
+  - Style system <br>
+  (Java Developer - front-end,back-end) <br>
   2017.01~2020.05
 </li>
   
 <li>
-  2.Korean development company
-  - Korean money brokerage
-  (network engineer - build a network,network maintenance,PC maintenance)
+  2.Korean development company <br>
+  - Korean money brokerage <br>
+  (network engineer - build a network,network maintenance,PC maintenance) <br>
   2020.06~2022.06
 </li>
   
