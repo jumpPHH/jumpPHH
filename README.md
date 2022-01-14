@@ -17,14 +17,14 @@ please message!</p><br>
 <h3>Experience</h3>
   
 <li>
-  1.Japanese development company <br>
+  Japanese development company <br>
   - Style system <br>
   (Java Developer - front-end,back-end) <br>
   2017.01~2020.05
 </li><br>
   
 <li>
-  2.Korean development company <br>
+  Korean development company <br>
   - Korean money brokerage <br>
   (network engineer - build a network,network maintenance,PC maintenance) <br>
   2020.06~2022.06
