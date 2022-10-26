@@ -20,7 +20,7 @@ please message!</p><br>
   Japanese development company <br>
   - Style system <br>
   (Java Developer - front-end,back-end) <br>
-  2017.11~2018.11
+  2017.11~2018.06
 </li><br>
   
 <li>
