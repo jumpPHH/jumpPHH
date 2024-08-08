@@ -29,12 +29,26 @@ please message!</p><br>
   (network engineer - build a network,network maintenance,PC maintenance) <br>
   2020.06~2022.06
 </li><br>
+
+<li>
+  Korean development SI company <br>
+  - ucube Corporation<br>
+  (Java Developer - front-end,back-end) <br>
+  
+  Public Institution Disaster Insurance 24 Platform 1st <br>
+  Public Institution Disaster Insurance 24 Platform 2st <br>
+  2022.11~2024.02
+  
+  Presidential Secretariat document security establishment project <br>
+  2024.03~2024.06
+  
+</li><br>
   
   <h3>Skill</h3>
  
   <P> 
     <h4>TOOL:</h4> Java、JSP、Servlet、Spring、javaScript、ｊQuery、Eclipse、STS、Tomcat、Apache <br>
-    <h4>DB:</h4> Oracle、MySQL、MariaDB
+    <h4>DB:</h4> Oracle、MySQL、MariaDB , Cubrid
   </p>
 </body>
 </html>
