@@ -48,7 +48,7 @@ please message!</p><br>
  
   <P> 
     <h4>TOOL:</h4> Java、JSP、Servlet、Spring、javaScript、ｊQuery、Eclipse、STS、Tomcat、Apache <br>
-    <h4>DB:</h4> Oracle、MySQL、MariaDB , Cubrid
+    <h4>DB:</h4> Oracle、MySQL、MariaDB、Cubrid
   </p>
 </body>
 </html>
