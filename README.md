@@ -20,24 +20,26 @@ Among them, Java is very interesting.😊</p><br>
 </a>
 </p>
 
-<h3>💼Experience</h3>
+<br>
+
+<h3>💼 Experience 💼</h3>
   
 <li>
-  Japanese development company 🚀<br>
+  🚀 Japanese development company 🚀<br>
   - Style system <br>
   (Java Developer - front-end,back-end) <br>
   2017.11~2018.06
 </li><br>
   
 <li>
-  Korean development company 🚀<br>
+  🚀 Korean development company 🚀<br>
   - Korean money brokerage <br>
   (network engineer - build a network,network maintenance,PC maintenance) <br>
   2020.06~2022.06
 </li><br>
 
 <li>
-  Korean development SI company 🚀<br>
+  🚀 Korean development SI company 🚀<br>
   - ucube Corporation<br>
   (Java Developer - front-end,back-end) <br>
   
@@ -51,9 +53,8 @@ Among them, Java is very interesting.😊</p><br>
 
   <br>
   
-  <h3>📚 Tech Stack 📚</h3>
+  <h3>📚 Platforms & Languages 📚</h3>
 
-  <h4>Platforms & Languages</h4>
   <p dir="auto">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>    
@@ -76,7 +77,6 @@ Among them, Java is very interesting.😊</p><br>
 
 <h3 align="left">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="">
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 </div> 
 
